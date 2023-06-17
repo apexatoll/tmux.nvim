@@ -1,7 +1,7 @@
 local Plugin = {}
 
-function Plugin.hello_world()
-  print("Hello world!")
+function Plugin.tmux_navigate(direction)
+  --
 end
 
 return Plugin
