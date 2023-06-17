@@ -1,5 +1,5 @@
 " Title: tmux-nvim
-" Description: 
+" Description: Interfaces tmux and nvim. Written in Lua.
 " Last Change: Sat 17 Jun 2023 14:51:06 BST
 " Maintainer: https://github.com/apexatoll
 
